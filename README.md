@@ -4,7 +4,7 @@ Whether you're a photographer, a graphic designer, or simply a photo editing ent
 this application will enable you to create stunning visual compositions in a snap.
 # Installation
 - python virtualenv venv
-- source venv/scripts/activate(windows)
+- source venv/scripts/activate ( for windows users)
 - pip install streamlit rembg
 # Run the application
 - streamlit run remove.py
