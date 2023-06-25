@@ -9,6 +9,6 @@ this application will enable you to create stunning visual compositions in a sna
 # Run the application
 - streamlit run remove.py
 # screenshots
-![cover](https://github.com/donia-fioklou/IMC_Calculator/blob/main/img/Screenshot.png)
+![cover](https://github.com/donia-fioklou/BackgroundBeGone/blob/main/Capture%20d%E2%80%99%C3%A9cran%20(110).png)
 
 ![cover](https://github.com/donia-fioklou/BackgroundBeGone/blob/main/Capture%20d%E2%80%99%C3%A9cran%20(111).png)
